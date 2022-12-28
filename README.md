@@ -1,4 +1,3 @@
-![![](https://user-images.githubusercontent.com/46969484/138513008-73afe644-8f31-45b0-aa9f-412a06558c8b.png)](https://imgur.com/q9w3vSZ.jpg)
 # Hi There!
 Welcome to my Git-hub profile!
 ## Aboute me:
