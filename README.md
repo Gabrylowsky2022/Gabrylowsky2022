@@ -1,13 +1,13 @@
-# Hi There!
+# Hi There! 🎥
 Welcome to my Git-hub profile!
 ## Aboute me:
-### I'm Gabrylowsky
+### I'm Gabrylowsky 🎬
 I'm interested in:
 - Graphics
 - Animations 
 - Editing movies and 
 - Programing
-## My social's
+## My social's 💻
 Discord: [Gabrylowsky Design#3968](https://www.discordapp.com/users/1033646849967538206)
 
 Behance: [Gabrylowsky Design](https://www.behance.net/GabrylowskyDZN)
